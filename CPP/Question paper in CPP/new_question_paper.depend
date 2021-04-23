@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1578049459 source:e:\c code\cpp code\new_question_paper\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+

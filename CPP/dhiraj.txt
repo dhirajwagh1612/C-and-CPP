@@ -1,0 +1,6 @@
+1) what is capital of india?
+1:delhi
+2:mumbai
+3:pune
+4:kolkata
+;1;

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1578589094 source:e:\c code\cpp code\mall\main.cpp
+	<iostream>
+	<string.h>
+
